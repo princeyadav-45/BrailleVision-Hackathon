@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+opencv-python-headless
+numpy
+openai
+python-dotenv
+torch
+torchvision
